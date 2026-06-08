@@ -1,0 +1,11 @@
+checks:
+  - public_s3
+  - mfa_disabled
+  - admin_users
+  - open_security_groups
+  - s3_encryption
+  - cloudtrail
+  - root_mfa
+  - password_policy
+  - unused_access_keys
+  - ebs_encryption

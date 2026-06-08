@@ -1,0 +1,12 @@
+[
+    {
+        "status": "OPEN",
+        "created_at": "2026-06-07T20:57:59.989307",
+        "last_seen": "2026-06-07T20:57:59.989714",
+        "resource_arn": "test-resource",
+        "severity": "High",
+        "evidence": "Demo Finding",
+        "business_impact": "Demo Impact",
+        "remediation": "Demo Fix"
+    }
+]
